@@ -13,12 +13,12 @@ const reportRoutes = require("./routes/reportRoutes")
 
 
 const app = express();
-
+app.use(cors());
 
 // Middleware to handle CORS
 app.use(
   cors({
-    origin: "*",
+    origin: "https://task-manager-zeta-nine-19.vercel.app" || "*",
     methods: ["GET", "POST", "PUT", "DELETE"],
     allowedHeaders: ["Content-Type", "Authorization"],
   })

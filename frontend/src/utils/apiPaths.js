@@ -1,4 +1,4 @@
-export const BASE_URL = "http://localhost:4000";
+export const BASE_URL = "https://task-manager-kumarrishi2689-vcub03xr.leapcell.dev";
 
 // utils/apiPaths.js
 export const API_PATHS = {

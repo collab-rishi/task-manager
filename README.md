@@ -238,6 +238,22 @@ npm start
 - `GET /api/reports/export/tasks` - Export tasks report
 - `GET /api/reports/export/users` - Export users report
 
+## 🧪 Test User Credentials
+
+You can use the following test credentials to log in as a user or admin for demo/testing purposes:
+
+### Admin User
+```
+Email: rohit.verma@example.com
+Password: Rohit#321
+```
+
+### Regular User
+```
+Email: aarav.sharma@example.com
+Password: Aarav123
+```
+
 ## 🤝 Contributing
 
 1. Fork the repository

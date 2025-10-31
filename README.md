@@ -1,3 +1,9 @@
+# Demo Walkthrough
+
+🎬 Watch a short demo walkthrough of the project:
+
+[Demo Video](https://www.loom.com/share/3436ca201abe486aace30290c59fd2ac)
+
 # Task Manager Application
 
 A full-stack task management application with React frontend and Node.js backend, featuring rich UI components, real-time updates, and comprehensive task management capabilities.
@@ -243,12 +249,14 @@ npm start
 You can use the following test credentials to log in as a user or admin for demo/testing purposes:
 
 ### Admin User
+
 ```
 Email: rohit.verma@example.com
 Password: Rohit#321
 ```
 
 ### Regular User
+
 ```
 Email: aarav.sharma@example.com
 Password: Aarav123
